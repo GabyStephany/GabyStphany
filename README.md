@@ -14,11 +14,5 @@
  
 <br>
 
-#### Entrem no meu Instagram e me sigam:
-
-<div> 
-  <a href=""target="_blank"><img src="https://www.instagram.com/gabrielastephanyamaral/&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
- 
 
  
