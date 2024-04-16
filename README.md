@@ -17,7 +17,7 @@
 #### Entrem no meu Instagram e me sigam:
 
 <div> 
-  <a href=""target="_blank"><img src="https://img.shields.io/badge/https://www.instagram.com/gabrielastephanyamaral/&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href=""target="_blank"><img src="https://www.instagram.com/gabrielastephanyamaral/&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
  
 
